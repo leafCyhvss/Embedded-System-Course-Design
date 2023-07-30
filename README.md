@@ -1,2 +1,3 @@
 # Embedded-System-Course-Design
-Course taken by me and my fellows
+Embedded System Design:
+Built up linux and android applications to simulate real-life problems and provide solutions
